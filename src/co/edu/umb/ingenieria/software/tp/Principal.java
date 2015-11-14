@@ -6,7 +6,8 @@ public class Principal {
 		
 		 Empresa e = Empresa.getEmpresa("858585-1", "Lilis S.A", "Lili engeniers", "calle falsa 123", 2565281);
 		 
-		 System.out.println(e.getNit());		 
+		 System.out.println(e.getNit());
+		 Mujeres
 		 System.out.println(e.getNombre());
 		 System.out.println(e.getRazonComercial());
 		 System.out.println(e.getDireccion());
