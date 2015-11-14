@@ -5,6 +5,7 @@ public class Empresa {
 	 private String nombre;
 	 private String razonComercial;
 	 private String direccion;
+	 private String Mujeres;
 	 private int telefono;
 	 private static Empresa miEmpresa;
 	 
